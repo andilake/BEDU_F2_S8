@@ -1,2 +1,3 @@
 summary(iris)
- head(iris)
+head(iris)
+tail(iris)
